@@ -1,1 +1,3 @@
-# Premjith
+# maven-project
+
+Simple Maven Project
